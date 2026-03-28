@@ -45,3 +45,4 @@ third-party/steamworks/sdk
 
 # Ignore Visual Studio database files
 .vs
+source/build_output.txt
